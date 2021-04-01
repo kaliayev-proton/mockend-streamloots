@@ -1,0 +1,10 @@
+{
+  "Post": {
+    "_id": "string",
+    "name": "string",
+    "imageUrl": "string",
+    "count": {
+      "total": "number"
+     }
+  }
+}
